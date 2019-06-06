@@ -1,0 +1,30 @@
+＜概要＞
+  3d-pose-baseline-vmdから出力されるpos.txtをブラウザ上で3D表示する。
+
+  3d-pose-baseline-vmd(https://github.com/miu200521358/3d-pose-baseline-vmd)
+
+＜使い方＞
+  １．3d_pose_viewer.htmlをダウンロード
+  ２．ブラウザで3d_pose_viewer.htmlを開く
+  ３．「Drop "pos.txt" file here!」の部分にpos.txtをドラッグアンドドロップする
+
+＜Github URL＞
+https://github.com/kenkra/3d-pose-viewer
+
+＜動作確認環境＞
+  Windows10
+  Chrome71
+  pos.txt (ver. 0.10 ～ 1.00)
+  GeForce GTX 1050Ti
+
+＜作者＞
+kenkra (twitter_DM： @GeoTeru)
+
+＜ライセンスなど＞
+本プログラムは、自由に複製・配布・修正できます。著作権の表示は不要です。
+本プログラムは無保証です。
+
+＜変更履歴＞
+ver.1.00
+・startとstopを1つのボタンに変更
+・「←」「→」「S」キー押下で、1フレーム前、1フレーム後、Start/Stopするように変更

@@ -1,0 +1,15 @@
+argparse
+
+matplotlib
+
+scipy
+
+tqdm
+
+requests
+
+fire
+
+dill
+
+git+https://github.com/ppwwyyxx/tensorpack.git
