@@ -7,6 +7,8 @@
 ### 1. Attach "Pos_txt_Reader1.cs" file to UnityChan character, and click play game.
 ### 2. Run "python webcam3d2". Note: you should install some dependences (opencv, tensorflow-gpu)
 
+![Screenshot](version1.0 demo.png)
+
 ## Useful links:
 ### https://github.com/ildoonet/tf-pose-estimation
 ### https://qiita.com/keel/items/0d64167850566586d22a
