@@ -273,7 +273,7 @@ public class Pos_txt_Reader1 : MonoBehaviour
             // センターの移動と回転
             Vector3 pos_forward = TriangleNormal(now_pos[7], now_pos[4], now_pos[1]);
             bone_t[0].position = now_pos[0] * scale_ratio + new Vector3(init_position.x, heal_position, init_position.z);
-            bone_t[0].rotation = Quaternion.LookRotation(pos_forward) * init_inv[0] * init_rot[0];
+            bone_t[0].rotation = Quaternion.LookRotation(pos_forward) * init_rot[0];
 
             // 各ボーンの回転
             for (int i = 0; i < bones.Length; i++)
