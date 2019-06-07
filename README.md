@@ -10,7 +10,7 @@
 <img src="version1.0 demo.png"/>
 
 ## Useful links:
-### https://github.com/ildoonet/tf-pose-estimation
-### https://qiita.com/keel/items/0d64167850566586d22a
-### https://qiita.com/romaroma/items/ffbdae4ecfc4c8ff31cd
-### https://github.com/SrikanthVelpuri/tf-pose
+#### https://github.com/ildoonet/tf-pose-estimation
+#### https://qiita.com/keel/items/0d64167850566586d22a
+#### https://qiita.com/romaroma/items/ffbdae4ecfc4c8ff31cd
+#### https://github.com/SrikanthVelpuri/tf-pose
