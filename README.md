@@ -1,7 +1,8 @@
 # real-time-3d-pose-estimation-with-Unity3D
 
 ### This is version 1.0 of "real time 3d pose estimation with Unity3D". The result is not good at all, I will try to improve it.
-### Demo video https://www.youtube.com/watch?v=5m4ywdGlF4U
+### Demo1 video: https://www.youtube.com/watch?v=wye4tFp7HP8&t=51s
+### Demo2 video: https://www.youtube.com/watch?v=5m4ywdGlF4U
 
 ## Usage: 
 ### 1. Attach "Assets/Pos_txt_Reader1.cs" file to UnityChan character, and click play game.
