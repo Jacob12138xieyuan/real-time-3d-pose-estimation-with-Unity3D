@@ -10,6 +10,7 @@
 
 ### video:
 <img src="version1.0 demo.png"/>
+
 ### webcam:
 <img src="webcam_smoothed_real_time.png"/>
 
